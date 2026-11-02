@@ -3,7 +3,7 @@ I am currently a computer science at the University of Technology Graz who is cu
 
 ## Tech stack
 - Languages: C, C++, Java, Python
-- Frameworks/Libraries: Spring Boot, OpenCV, gRPC
+- Frameworks/Libraries: Spring Boot, OpenCV, gRPC, Django, Tailwind
 - Databases: PostgreSQL
 - DevOps: Docker
 
